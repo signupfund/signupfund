@@ -7,12 +7,8 @@
 	<div class="container">
 
 		<p><strong>signup</strong>fund v.1 
-		<br>for people with the cashflow and desire to invest more actively. But without the time. Signupfund simply runs a live portfolio of trades in the global investment space and is meant to be copied by users of they like the strategy. </p> 
-		<br>
-		<br>
+		<br>in depth site on the portfolios being managed on the <a href="https://wwww.etoro.com" target="_blank"> eToro </a> platform. Signup to get started.</p>
 		<p></p>
-
-
 
 
 	</div>

@@ -25,15 +25,23 @@ Route::get('/about', function () {
 
 });
 
+Route::get('/unauthorized', function () {
+
+    return view('unauthorized');
+
+});
+
 
 //positions and portfolios routes
-Route::get('/portfolio','PositionsController@index');
+Route::get('/portfolio','PositionsController@index')->middleware('superuser');
 
 
 //users routes
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+//Route::get('superuser/routes', 'HomeController@superuser')->middleware('SuperUser');
 
 //middleware routes
 

@@ -8,12 +8,12 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">current portfolio</div>
+                <div class="card-header">current portfolio {sign up to copy <a href="https://www.etoro.com/people/fujones/stats" target="_blank"> here}</a></div>
 
                 <div class="card-body">
 
 
-                    return 3m [] 6m [] 12m [] 2y []
+                    
                 </div>
             </div>
         </div>
